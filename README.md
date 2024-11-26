@@ -6,14 +6,15 @@ This project analyzes a mock sales dataset to uncover key business insights and 
 - TOTAL PROFIT:    $50,289.32  
 - TOP REGION:  West (27.6% of Total Sales)  
 - TOP CATEGORY: Furniture ($186,711.46 in sales)  
-- MONTHLY SALES PEAK: DECEMBER
+- MONTHLY SALES PEAK: MAY 2024 with sales of $17,742.60
+​
 
 ### ADDITIONAL INSIGHTS:
-- Most Profitable Product: Monitor ($3,297.39 in profit)  
+- Most Profitable Product: Monitor ($9,123.73 in profit)  
 
 ## Visualizations
 - **Sales by Category**: Bar chart showing total sales for each category.  
-- **Monthly Sales Trend**: Line chart displaying the sales trend over time, with a peak in December.  
+- **Monthly Sales Trend**: Line chart displaying the sales trend over time, with a peak in May 2024.  
 - **Region-Wise Sales**: Pie chart illustrating sales distribution by region.  
 
 ## Files
